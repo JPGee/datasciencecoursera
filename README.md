@@ -1,4 +1,4 @@
-# Data Sscience Coursera
+# Data Science Coursera
 
 Created for Data Scientist's Toolbox
 
